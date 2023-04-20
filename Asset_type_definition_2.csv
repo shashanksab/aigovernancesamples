@@ -1,6 +1,0 @@
-name,type,description,placeholder,is_array,required,hidden,readonly,default_value,label,minimum,maximum,min_length,max_length,is_searchable
-training_data_url,string,URL of the training data used,URL of the training data used,FALSE,FALSE,FALSE,FALSE,attr11,Training Data Reference,,,5,255,TRUE
-training_data_size,integer,Size of the training data size,Size of the training data size,FALSE,FALSE,FALSE,FALSE,attr12,Training Data Size,0,,,,TRUE
-training_data_ratio,string,% of dataset used for training,% of dataset used for training,FALSE,FALSE,FALSE,FALSE,attr13,Training Data Ratio,,,5,255,TRUE
-test_data_size,integer,Size of the testing data size,Size of the testing data size,FALSE,FALSE,FALSE,FALSE,attr14,Test Data Size,0,,,,TRUE
-test_data_ratio,string,% of dataset used for testing,% of dataset used for testing,FALSE,FALSE,FALSE,FALSE,attr15,Test Data Ratio,,,5,255,TRUE
